@@ -1,0 +1,6 @@
+I suggest getting your images working.
+A component that maybe takes in the lives as a prop would work.
+You can then use the lives to choose the correct image and return it.
+The componant will need to import all the images individually.
+
+I will see you tomorrow and we can carry on from there.
